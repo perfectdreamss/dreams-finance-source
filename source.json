@@ -1,0 +1,26 @@
+{
+  "name": "Dreams Finance",
+  "identifier": "com.dreamsfinance.source",
+  "apps": [
+    {
+      "name": "Dreams Finance",
+      "bundleIdentifier": "com.dreamsfinance.app",
+      "developerName": "Dreams Finance",
+      "subtitle": "Personal finance + NY paycheck calculator",
+      "iconURL": "https://perfectdreamss.github.io/dreams-finance-source/icon.png",
+      "tintColor": "4F8DFD",
+      "category": "lifestyle",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.1.0.7",
+          "buildVersion": "7",
+          "date": "2026-05-07T02:01:09Z",
+          "localizedDescription": "feat: hours x rate input + Compare tab + remove Filing/W-4 section",
+          "downloadURL": "https://github.com/perfectdreamss/dreams-finance-source/releases/download/v1.1.0.7/DreamsFinance-unsigned.ipa",
+          "size": 7593821
+        }
+      ]
+    }
+  ]
+}
