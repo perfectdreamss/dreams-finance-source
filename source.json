@@ -14,6 +14,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.4.0",
+          "buildVersion": "13",
+          "date": "2026-05-07T04:53:16Z",
+          "localizedDescription": "v1.4.0: home menu + Capsule Strike mini-game",
+          "downloadURL": "https://github.com/perfectdreamss/dreams-finance-source/releases/download/v1.4.0-build13/DreamsFinance-unsigned.ipa",
+          "size": 7616700
+        },
+        {
           "version": "1.3.0",
           "buildVersion": "12",
           "date": "2026-05-07T04:44:41Z",
