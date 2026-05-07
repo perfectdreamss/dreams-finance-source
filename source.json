@@ -7,7 +7,7 @@
       "bundleIdentifier": "com.dreamsfinance.app",
       "developerName": "Dreams Finance",
       "subtitle": "Personal finance + NY paycheck calculator",
-      "localizedDescription": "Personal finance tracker with a full New York State paycheck calculator (federal, NY state, NYC, FICA, SDI, PFL), recurring bill tracker, transaction log, and paycheck history with side-by-side comparison."
+      "localizedDescription": "Personal finance tracker with a full New York State paycheck calculator (federal, NY state, NYC, FICA, SDI, PFL), recurring bill tracker, transaction log, and paycheck history with side-by-side comparison.",
       "iconURL": "https://perfectdreamss.github.io/dreams-finance-source/icon.png",
       "tintColor": "4F8DFD",
       "category": "lifestyle",
