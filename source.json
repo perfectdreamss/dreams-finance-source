@@ -14,6 +14,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.0.8",
+          "buildVersion": "8",
+          "date": "2026-05-07T02:11:37Z",
+          "localizedDescription": "fix(ci): include localizedDescription in initial source.json (AltStore requires it)",
+          "downloadURL": "https://github.com/perfectdreamss/dreams-finance-source/releases/download/v1.1.0.8/DreamsFinance-unsigned.ipa",
+          "size": 7593822
+        },
+        {
           "version": "1.1.0.7",
           "buildVersion": "7",
           "date": "2026-05-07T02:01:09Z",
