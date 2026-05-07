@@ -14,6 +14,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.5.0",
+          "buildVersion": "14",
+          "date": "2026-05-07T05:48:30Z",
+          "localizedDescription": "v1.5.0: Capsule Strike upgrades — combos, power-ups, boss, particles, starfield",
+          "downloadURL": "https://github.com/perfectdreamss/dreams-finance-source/releases/download/v1.5.0-build14/DreamsFinance-unsigned.ipa",
+          "size": 7624078
+        },
+        {
           "version": "1.4.0",
           "buildVersion": "13",
           "date": "2026-05-07T04:53:16Z",
