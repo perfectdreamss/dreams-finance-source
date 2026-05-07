@@ -14,6 +14,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.1.0",
+          "buildVersion": "9",
+          "date": "2026-05-07T02:43:07Z",
+          "localizedDescription": "fix(ci): source.json version must match .ipa CFBundleShortVersionString",
+          "downloadURL": "https://github.com/perfectdreamss/dreams-finance-source/releases/download/v1.1.0-build9/DreamsFinance-unsigned.ipa",
+          "size": 7593821
+        },
+        {
           "version": "1.1.0.8",
           "buildVersion": "8",
           "date": "2026-05-07T02:11:37Z",
