@@ -14,6 +14,14 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "1.3.0",
+          "buildVersion": "12",
+          "date": "2026-05-07T04:44:41Z",
+          "localizedDescription": "v1.3.0: simplified calculator + ADP-style breakdown + animations + auto-fill paycheck log",
+          "downloadURL": "https://github.com/perfectdreamss/dreams-finance-source/releases/download/v1.3.0-build12/DreamsFinance-unsigned.ipa",
+          "size": 7595003
+        },
+        {
           "version": "1.2.0",
           "buildVersion": "11",
           "date": "2026-05-07T03:10:34Z",
